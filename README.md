@@ -1,11 +1,13 @@
-### hi there 👋
-
+```rs
+println!("hey there 👋");
+```
 ### langs
 - rustlang
 - csharp
 - python
 
 ### projects and plans
-- atherisnuker rewrite in **rust**
-- contributing to **rustc**
-- learning about low level stuff
+- rewriting some of my old python and csharp projects in rust
+- contributing to the rust compiler
+- learning more about low level programming
+
